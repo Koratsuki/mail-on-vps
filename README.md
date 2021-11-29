@@ -1,4 +1,4 @@
-# mail-on-vps
+mail-on-vps
 ==
 **Example code for**
 
